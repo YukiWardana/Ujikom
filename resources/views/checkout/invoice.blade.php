@@ -109,7 +109,7 @@
 <body>
     <!-- Header -->
     <div class="header">
-        <h1>Toko Alat Kesehatan</h1>
+        <h1>MediStore</h1>
         <p>Laporan Belanja Anda</p>
     </div>
 
